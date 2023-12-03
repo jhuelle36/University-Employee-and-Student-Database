@@ -4,16 +4,25 @@
 
 	Faculty Members
 	----------------------
-		0. JAden
+		1. Jaden
 		ID: ja1234
 		Professor, Engineering
+		2. Bob
+		ID: bo4545
+		Adjunct, Mathematics
 
 
 
 	Staff Members
 	----------------------
-
+		1. Sarah
+		ID: sa1111
+		Part-Time, English
 
 
 	Students
 	----------------------
+		1. Jason
+		ID: ja9000
+		Credit Hours: 30
+		GPA: 3.75
